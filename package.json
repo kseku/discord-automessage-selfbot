@@ -1,0 +1,19 @@
+{
+  "name": "discord-automessage-selfbot",
+  "version": "1.0.0",
+  "main": "src/App.js",
+  "type": "module",
+  "scripts": {
+    "start": "node .",
+    "build": "prettier --write ."
+  },
+  "author": "Skeku",
+  "license": "MIT",
+  "dependencies": {
+    "discord.js-selfbot-v13": "^2.12.1",
+    "dotenv": "^16.0.3"
+  },
+  "devDependencies": {
+    "prettier": "^2.8.7"
+  }
+}

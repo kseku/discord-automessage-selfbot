@@ -1,0 +1,29 @@
+{
+  "replitAlwaysOnMode": false,
+  "targets": [
+    {
+      "hour": 21,
+      "minute": 37,
+      "guildID": "993238984287330355",
+      "channelIDs": ["1073997497174851676", "1021048003152334878"],
+      "textPacks": ["2137", "2137-polish"]
+    }
+  ],
+  "textPacks": [
+    {
+      "name": "2137",
+      "texts":
+      [
+        "21:37",
+        "21:37 hit!"
+      ]
+    },
+    {
+      "name": "2137-polish",
+      "texts":
+      [
+        "Wybiła 21:37"
+      ]
+    }
+  ]
+}
